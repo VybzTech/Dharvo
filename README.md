@@ -1,6 +1,6 @@
 VybzTech ♾ Dharvo 
 React Developer (Vue Novice), Junior UI/UX Designer, Professional Dj & Mobile App Developer 
-LinkedIn: https://ng.linkedin.com/in/david-adeboyejo-725527221
+LinkedIn: https://ng.linkedin.com/in/VybzTech 
 Email: officialdjvybz@gmail.com📧
 📍Lagos, NG
 
