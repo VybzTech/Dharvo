@@ -1,13 +1,10 @@
-VybzTech ♾ Dharvo 
-React Developer (Vue Novice), Junior UI/UX Designer, Professional Dj & Mobile App Developer 
-LinkedIn: https://ng.linkedin.com/in/VybzTech 
-Email: officialdjvybz@gmail.com📧
-📍Lagos, NG
+# VybzTech ♾ Dharvo 
+## React Developer (Vue Novice), Junior UI/UX Designer, Professional Dj & Mobile App Developer 
+### LinkedIn: https://ng.linkedin.com/in/VybzTech 
+### Email: officialdjvybz@gmail.com📧
+#### 📍Lagos, NG
 
 
-
-
-<!---
 - 👋 Hi, I’m @Dharvo
 - 👀 I’m interested in Learning to Code and being a programmer...
 - 🌱 I’m currently learning React JS, PHP & Vue JS...
@@ -15,5 +12,6 @@ Email: officialdjvybz@gmail.com📧
 - 📫 You can reach me through mobile 08121820645 or mail: adedave77@gmail...
 
 Dharvo/Dharvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can click the profile link to take a look at my portfolio.
+http://portfolio-page-7.web.app/
+
