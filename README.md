@@ -6,29 +6,29 @@
   <h1><a href='https://portfolio-page-7.web.app/' target="_blank">Welcome To VybzTech</a> ♾</h1>
 </div>
 
-## React Developer (Vue Novice), Junior UI/UX Designer, Professional Dj & Mobile App Developer 
-### You can Find me on 
-`LinkedIn`(https://ng.linkedin.com/in/VybzTech)
-### Email: officialdjvybz@gmail.com📧
-#### 📍Lagos, NG
-
-
 ## Follow Us
 [`Instagram`](https://www.instagram.com/vybz.tech)
 [`Twitter`](https://twitter.com/djay_vybz)
+[`Email`](https://mailto.adedave77@gmail.com) 📧
+[`LinkedIn`](https://ng.linkedin.com/in/VybzTech) 📫 
+📍Lagos, NG
 
 ### Getting Started with VybzTech
-This project was created with [`Create React App`](https://github.com/facebook/create-react-app) command line using the [React](https://react.dev/) Docs. You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started). Also to learn how to use React, check out the [React documentation](https://reactjs.org/).
+Hello, I’m Dharvo 👋. At least that's what my friends call me, certainly for you to have found this page we are definitely friends. So my friend, my name is  [`Adeboyejo David`](https://www.facebook.com/david.adeyinka94) and it's nice to meet you too.
+This project was created with [`Create React App`](https://github.com/facebook/create-react-app) command line using the [React](https://react.dev/) Docs 👀. Whilst You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started), you can also go to learn more about me in my [Portfolio](https://portfolio-page-7.web.app/) 💞️.
 
-Navigate to ## http://portfolio-page-7.web.app/
-#### ~`npm start` 
-
-- 👋 Hi, I’m @Dharvo
-- 👀 I’m interested in Learning to Code and being a programmer...
-- 🌱 I’m currently learning .NET using C# ...
-- 💞️ I’m looking to become a full stack developer studying Java ...
-- 📫 You can reach me through mobile 08121820645 or e-mail @ adedave77@gmail...
-
-### You can click the profile link to take a look at my portfolio.
-
-
+### My Skills
+##### `~ HTML5, CSS/SCSS, Jquery`
+##### `~ JavaScript`
+##### `~ React JS`
+##### `~ Dart`
+##### `~ Flutter`
+##### `~ Firebase`
+##### `~ TypeScript`
+##### `~ C#`
+##### `~ Next JS`
+##### `~ Java`
+##### `~ ASP .NET Core`
+##### `~ Adobe XD`
+##### `~ Figma`
+##### `~ Git`
