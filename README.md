@@ -14,7 +14,7 @@
 📍Lagos, NG
 
 ### Getting Started with VybzTech
-Hello, I’m Dharvo 👋. At least that's what my friends call me, certainly for you to have found this page we are definitely friends. So my friend, my name is  [`Adeboyejo David`](https://www.facebook.com/david.adeyinka94) and it's nice to meet you too.
+Hello, my friends call me Dharvo 👋. At least that's what my friends call me, certainly for you to have found this page we are definitely friends. So my friend, my name is  [`Adeboyejo David`](https://www.facebook.com/david.adeyinka94) and it's nice to meet you too.
 This project was created with [`Create React App`](https://github.com/facebook/create-react-app) command line using the [React](https://react.dev/) Docs 👀. Whilst You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started), you can also go to learn more about me in my [Portfolio](https://portfolio-page-7.web.app/) 💞️.
 
 ### Technologies Used
